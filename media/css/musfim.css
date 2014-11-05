@@ -4,7 +4,9 @@
 
 /* purecss.io */
 
-a {text-decoration: none;}
+a {text-decoration:none; color:#428bca;}
+
+.pro td {background-color:black; color:lime;}
 
 .w60 {width:60px;}
 .w80 {width:80px;}
