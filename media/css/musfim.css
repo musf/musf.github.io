@@ -7,6 +7,7 @@
 a {text-decoration:none; color:#428bca;}
 
 .pro td {background-color:black; color:lime;}
+.bg-o:hover{background-color:darkorange;}
 
 .w60 {width:60px;}
 .w80 {width:80px;}
